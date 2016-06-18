@@ -1,0 +1,34 @@
+Initialize engine version: 4.6.7f1 (bb67e21913cc)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7560D (ID=0x9904)
+    Vendor:   ATI
+    VRAM:     498 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Matt\Documents\Unity Projects\StarBits\Builds\Strawn_Matthew\Strawn_Matthew-Play_Test_1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Matt\Documents\Unity Projects\StarBits\Builds\Strawn_Matthew\Strawn_Matthew-Play_Test_1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Matt\Documents\Unity Projects\StarBits\Builds\Strawn_Matthew\Strawn_Matthew-Play_Test_1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Matt\Documents\Unity Projects\StarBits\Builds\Strawn_Matthew\Strawn_Matthew-Play_Test_1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Matt\Documents\Unity Projects\StarBits\Builds\Strawn_Matthew\Strawn_Matthew-Play_Test_1_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Matt\Documents\Unity Projects\StarBits\Builds\Strawn_Matthew\Strawn_Matthew-Play_Test_1_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Matt\Documents\Unity Projects\StarBits\Builds\Strawn_Matthew\Strawn_Matthew-Play_Test_1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Matt\Documents\Unity Projects\StarBits\Builds\Strawn_Matthew\Strawn_Matthew-Play_Test_1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.083 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Matt\Documents\Unity Projects\StarBits\Builds\Strawn_Matthew\Strawn_Matthew-Play_Test_1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Matt\Documents\Unity Projects\StarBits\Builds\Strawn_Matthew\Strawn_Matthew-Play_Test_1_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 5.777179 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 267.
+Total: 1.455515 ms (FindLiveObjects: 0.011220 ms CreateObjectMapping: 0.015388 ms MarkObjects: 0.172481 ms  DeleteObjects: 0.004488 ms)
+
+UnloadTime: 0.735452 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 267.
+Total: 1.193266 ms (FindLiveObjects: 0.011541 ms CreateObjectMapping: 0.011862 ms MarkObjects: 0.167672 ms  DeleteObjects: 0.003847 ms)
+

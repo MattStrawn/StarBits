@@ -1,0 +1,34 @@
+Initialize engine version: 4.6.7f1 (bb67e21913cc)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 200 Series (ID=0x6610)
+    Vendor:   ATI
+    VRAM:     1006 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\College\Game Dev\Level Design\StarBits\Builds\Strawn_Matthew\Star-Bits_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\College\Game Dev\Level Design\StarBits\Builds\Strawn_Matthew\Star-Bits_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\College\Game Dev\Level Design\StarBits\Builds\Strawn_Matthew\Star-Bits_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\College\Game Dev\Level Design\StarBits\Builds\Strawn_Matthew\Star-Bits_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\College\Game Dev\Level Design\StarBits\Builds\Strawn_Matthew\Star-Bits_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\College\Game Dev\Level Design\StarBits\Builds\Strawn_Matthew\Star-Bits_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\College\Game Dev\Level Design\StarBits\Builds\Strawn_Matthew\Star-Bits_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\College\Game Dev\Level Design\StarBits\Builds\Strawn_Matthew\Star-Bits_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  1.192 seconds
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: D:\College\Game Dev\Level Design\StarBits\Builds\Strawn_Matthew\Star-Bits_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\College\Game Dev\Level Design\StarBits\Builds\Strawn_Matthew\Star-Bits_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 11.429733 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 397.
+Total: 1.955555 ms (FindLiveObjects: 0.040577 ms CreateObjectMapping: 0.030800 ms MarkObjects: 0.399911 ms  DeleteObjects: 0.011733 ms)
+
+UnloadTime: 2.024489 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 397.
+Total: 1.897866 ms (FindLiveObjects: 0.037644 ms CreateObjectMapping: 0.031777 ms MarkObjects: 0.399422 ms  DeleteObjects: 0.009777 ms)
+
